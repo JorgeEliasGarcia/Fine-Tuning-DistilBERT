@@ -74,7 +74,4 @@ Model performance is evaluated with:
 
 ---
 
-## Project Structure
-```text
-├── Fine-tuning de DistilBERT para Tareas de Elección Múltiple.ipynb
-└── README.md
+
