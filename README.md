@@ -1,6 +1,5 @@
 # Fine-Tuning DistilBERT for Multiple-Choice NLP Classification
 
-## Overview
 This project focuses on **multiple-choice text classification** using **DistilBERT**, a lightweight transformer model distilled from BERT.  
 The goal is to **fine-tune a pretrained DistilBERT model** to solve tasks where each question is paired with several candidate answers and the model must select the correct option.
 
