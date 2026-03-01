@@ -47,7 +47,7 @@ The notebook uses **SWAG (regular)**, a **Multiple-Choice Sentence Completion** 
 1. Import libraries and check GPU availability.
 2. Load and inspect the SWAG dataset.
 3. Preprocess and tokenize inputs (context + options).
-4. Initialize a pretrained DistilBERT model for multiple-choice.
+4. Initialize a pretrained DistilBERT and adapt the classification head for the multiple-choice task.
 5. Define training arguments and hyperparameters.
 6. Train (fine-tune) the model using the Hugging Face Trainer API.
 7. Evaluate using accuracy and compare predictions vs. ground-truth labels.
