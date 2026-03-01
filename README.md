@@ -59,7 +59,7 @@ The notebook uses **SWAG (regular)**, a **Multiple-Choice Sentence Completion** 
 ## Evaluation
 Model performance is evaluated with:
 - **Accuracy** on the validation set
-- Error inspection (examples where the model fails)
+- Performance on the customized examples.
 
 ---
 
